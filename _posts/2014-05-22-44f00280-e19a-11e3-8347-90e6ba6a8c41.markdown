@@ -1,0 +1,30 @@
+---
+layout: post
+title: "无限挑战-20140503迅雷下载_阳光电影"
+date:   2014-05-22 18:17:24
+categories: movie
+---
+<html>
+ <body>
+  <p>
+  </p>
+  <p>
+   <img alt="" src="http://ww4.sinaimg.cn/bmiddle/444476dfjw1e7c344ev8aj20od0ed0wx.jpg"/>
+  </p>
+  <p>
+   《无限挑战》（韩语：무한도전，英文：Infinite Challenge, Muhan Dojeon）于每周六晚上18:30—19:50于韩国MBC播放，是公认的韩国电视史上第一个“真实综艺节目”——没有固定的主架构，不依稿本进行，并遵循类似的格式基于挑战的电视真人秀节目。节目一直标榜为“3D综艺节目”，其中“3D”分别代表Dirty、Difficult和Dangerous。
+  </p>
+  <p>
+   <font color="#ff0000">
+    <strong>
+     下载地址：
+    </strong>
+   </font>
+  </p>
+  <p>
+  </p>
+  <a href="ftp://ygdy8:ygdy8@d016.dygod.org:5267/%5B%E9%98%B3%E5%85%89%E7%94%B5%E5%BD%B1-www.ygdy8.com%5D%E6%97%A0%E9%99%90%E6%8C%91%E6%88%9820140503.mkv">
+   ftp://ygdy8:ygdy8@d016.dygod.org:5267/[阳光电影-www.ygdy8.com]无限挑战20140503.mkv
+  </a>
+ </body>
+</html>

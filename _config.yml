@@ -1,0 +1,8 @@
+name: USEE
+markdown: redcarpet
+pygments: true
+url: http://usee.ml
+baseurl: ""
+paginate: 10
+paginate_path: "/page:num"
+
